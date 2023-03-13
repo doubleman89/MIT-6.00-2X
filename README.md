@@ -1,6 +1,6 @@
 
-#6.0002 | Fall 2016 |- Introduction to Computational Thinking and Data Science
-## MIT 
+# 6.0002 | Fall 2016 |- Introduction to Computational Thinking and Data Science
+## MIT ( Massachusetts Institute of Technology )  Open Course Ware 
 
 ##Lectures 
 * 1 	Introduction and Optimization Problems 	Problem set 1 out - Done 
