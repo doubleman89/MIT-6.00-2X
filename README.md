@@ -19,7 +19,8 @@
 * 14 	Classification and Statistical Sins 	 
 * 15 	Statistical Sins and Wrap Up 	Final Exam
 
-# Problem Sets - https://ocw.mit.edu/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/pages/assignments/
+# Problem Sets 
+- https://ocw.mit.edu/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/pages/assignments/
 * Problem Set 1 Greedy Algorithm and Dynamic Programming - Done
 * Problem Set 2 - Designing Graph, Shortest Path using Optimized Depth First Search   Done
 * Problem Set 3 - Vacuuming robot basic program -  Testing 
