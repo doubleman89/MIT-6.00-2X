@@ -15,9 +15,9 @@
 - [x] * 10 	Understanding Experimental Data (cont.) 	 
 - [x] * 11 	Introduction to Machine Learning 	 
 - [x] * 12 	Clustering 	
-- [] * 13 	Classification 	Problem set 5 due - Ongoing
-- [] * 14 	Classification and Statistical Sins 	 
-- [] * 15 	Statistical Sins and Wrap Up 	Final Exam
+- [ ] * 13 	Classification 	Problem set 5 due - Ongoing
+- [ ] * 14 	Classification and Statistical Sins 	 
+- [ ] * 15 	Statistical Sins and Wrap Up 	Final Exam
 
 # Problem Sets 
 - https://ocw.mit.edu/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/pages/assignments/
@@ -25,4 +25,4 @@
 - [x] * Problem Set 2 - Designing Graph, Shortest Path using Optimized Depth First Search  
 - [x] * Problem Set 3 - Vacuuming robot basic program
 - [x] * Problem Set 4 - Simulation the Spread of Disease and Bacteria Population 
-- [] * Problem Set 5 - ...
+- [ ] * Problem Set 5 - ...
