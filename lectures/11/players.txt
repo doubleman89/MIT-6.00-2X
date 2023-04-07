@@ -1,0 +1,10 @@
+edelman,70,200
+hogan,73,210
+gronkowski,78,265
+amendola,71,190
+bennet,78,275
+cannon,77,335
+solder,80,325
+mason,73,310
+thuney,77,305
+karras,76,305
