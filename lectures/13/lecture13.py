@@ -313,9 +313,9 @@ def randomSplits(examples, method, numSplits, toPrint = True):
     return truePos/numSplits, falsePos/numSplits,\
              trueNeg/numSplits, falseNeg/numSplits
     
-knn = lambda training, testSet:\
-             KNearestClassify(training, testSet,
-                              'Survived', 3)
+# knn = lambda training, testSet:\
+#              KNearestClassify(training, testSet,
+#                               'Survived', 3)
 #numSplits = 10
 #print('Average of', numSplits,
 #      '80/20 splits using KNN (k=3)')
@@ -327,6 +327,7 @@ knn = lambda training, testSet:\
 #      leaveOneOut(examples, knn)
 
 import sklearn.linear_model
+
 
 def buildModel(examples, toPrint = True):
     featureVecs, labels = [],[]
@@ -344,10 +345,10 @@ def buildModel(examples, toPrint = True):
                       model.coef_[0][j])
     return model
 
-#L = [x*x for x in range(10)]
-#print(L)
-#L = [x*x for x in range(10) if x%2 == 0]
-#print(L)
+L = [x*x for x in range(10)]
+print(L)
+L = [x*x for x in range(10) if x%2 == 0]
+print(L)
 
 def applyModel(model, testSet, label, prob = 0.5):
     testFeatureVecs = [e.getFeatures() for e in testSet]
