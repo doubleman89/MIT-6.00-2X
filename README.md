@@ -1,5 +1,5 @@
 
-# 6.0002 | Fall 2016 |- Introduction to Computational Thinking and Data Science
+# [6.0002 | Fall 2016 |- Introduction to Computational Thinking and Data Science](https://ocw.mit.edu/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/)
 ## MIT ( Massachusetts Institute of Technology )  Open Course Ware 
 
 ##Lectures 
